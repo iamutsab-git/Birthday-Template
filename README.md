@@ -1,6 +1,6 @@
-# Birthday Website 💝
+# Birthday Website 
 
-A beautiful React website to celebrate a special birthday.
+A beautiful React website to celebrate a special birthday of your loved ones.
 
 ## Features
 - Photo gallery with lightbox
