@@ -1,7 +1,7 @@
 # Birthday Website 
 
 A beautiful React website to celebrate a special birthday of your loved ones.
-
+(Just for Fun)
 ## Features
 - Photo gallery with lightbox
 - Romantic messages with animations
